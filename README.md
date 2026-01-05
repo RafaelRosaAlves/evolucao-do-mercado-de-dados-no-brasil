@@ -4,7 +4,7 @@ Este projeto foi realizado para a matéria de Recuperação da Informação, do 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RafaelRosaAlves/evolucao-do-mercado-de-dados-no-brasil/blob/main/evolucao_do_mercado_de_dados_no_brasil.ipynb)
 
-## 📊 Sobre o Projeto
+##  Sobre o Projeto
 
 O objetivo deste estudo é visualizar a transformação digital brasileira nos últimos anos, correlacionando o investimento financeiro no setor com a demanda por mão de obra qualificada e a maturidade tecnológica das empresas.
 
@@ -13,7 +13,7 @@ Os dados abrangem o período de **2021 a 2024** e analisam as seguintes métrica
 2.  **Empregabilidade:** A evolução do número de profissionais de dados atuantes.
 3.  **Adoção de IA:** A porcentagem de empresas que integraram soluções de Inteligência Artificial em seus processos.
 
-## 📈 Visualizações Geradas
+##  Visualizações Geradas
 
 O notebook gera três gráficos principais para facilitar a interpretação dos dados:
 
@@ -21,7 +21,7 @@ O notebook gera três gráficos principais para facilitar a interpretação dos 
 * **Gráfico de Barras:** Ilustra o aumento na contratação de profissionais, evidenciando a alta demanda por talentos na área.
 * **Gráfico de Linha (com marcadores):** Mostra a curva de adoção de tecnologias de IA pelas corporações brasileiras.
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Python 3**
 * **Pandas:** Para criação do DataFrame e manipulação dos dados tabulares.
