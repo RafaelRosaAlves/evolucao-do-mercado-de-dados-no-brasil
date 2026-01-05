@@ -1,14 +1,14 @@
-# Evolução do Mercado de Dados no Brasil (2018-2024) 🇧🇷
+# Evolução do Mercado de Dados no Brasil (2021-2024) 🇧🇷
 
-Este projeto realiza uma análise exploratória de dados sobre o crescimento do setor de Big Data, Analytics e Inteligência Artificial no Brasil. O notebook utiliza a biblioteca **Pandas** para estruturação e **Seaborn/Matplotlib** para visualização das tendências.
+Este projeto foi realizado para a matéria de Recuperação da Informação, do curso de Ciência de dados e Machine Learning, do Cenbtro Universitário de Brasília (UniCEUB). Neste trasbalho foi feita uma análise exploratória de dados sobre o crescimento do setor de Big Data, Analytics e Inteligência Artificial no Brasil. O notebook utiliza a biblioteca **Pandas** para estruturação e **Seaborn/Matplotlib** para visualização das tendências.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/evolucao_do_mercado_de_dados_no_brasil.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RafaelRosaAlves/evolucao-do-mercado-de-dados-no-brasil/blob/main/evolucao_do_mercado_de_dados_no_brasil.ipynb)
 
 ## 📊 Sobre o Projeto
 
 O objetivo deste estudo é visualizar a transformação digital brasileira nos últimos anos, correlacionando o investimento financeiro no setor com a demanda por mão de obra qualificada e a maturidade tecnológica das empresas.
 
-Os dados abrangem o período de **2018 a 2024** e analisam as seguintes métricas:
+Os dados abrangem o período de **2021 a 2024** e analisam as seguintes métricas:
 1.  **Tamanho do Mercado:** O crescimento financeiro do setor (em Bilhões de USD).
 2.  **Empregabilidade:** A evolução do número de profissionais de dados atuantes.
 3.  **Adoção de IA:** A porcentagem de empresas que integraram soluções de Inteligência Artificial em seus processos.
