@@ -2,7 +2,7 @@
 
 Este projeto foi realizado para a matéria de Recuperação da Informação, do curso de Ciência de dados e Machine Learning, do Cenbtro Universitário de Brasília (UniCEUB). Neste trasbalho foi feita uma análise exploratória de dados sobre o crescimento do setor de Big Data, Analytics e Inteligência Artificial no Brasil. O notebook utiliza a biblioteca **Pandas** para estruturação e **Seaborn/Matplotlib** para visualização das tendências.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RafaelRosaAlves/evolucao-do-mercado-de-dados-no-brasil/blob/main/evolucao-do-mercado-de-dados-no-brasil.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RafaelRosaAlves/evolucao-do-mercado-de-dados-no-brasil/blob/main/evolucao_do_mercado_de_dados_no_brasil.ipynb)
 
 ##  Sobre o Projeto
 
